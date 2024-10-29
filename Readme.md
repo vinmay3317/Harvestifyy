@@ -52,5 +52,7 @@ In addition to the machine learning models, the project features several web pag
 
 Feel free to explore, contribute, and make this Agriculture Helper project even more valuable for farmers!
 
+## If you’re interested in learning more about this project or discussing potential collaborations, feel free to reach out at vinmaytondle@gmail.com (With the reference of project repository title in your message.).
+    
 ## For more Info-
   visit -: vinmaytondle.netlify.app
