@@ -51,3 +51,6 @@ In addition to the machine learning models, the project features several web pag
 <!-- 4. Access the application in your browser at `http://localhost:8000`. -->
 
 Feel free to explore, contribute, and make this Agriculture Helper project even more valuable for farmers!
+
+## For more Info-
+  visit -: vinmaytondle.netlify.app
